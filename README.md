@@ -6,8 +6,7 @@ Alaotsikon tekstiä.
 
 Taulukkko esimerkki:
 Leffat | Julkaisuvuosi
-
-Elokuva|Vuosi
+---|----
 Pulp Fiction | 1994
 
 ### Alaotsikko
